@@ -1,1 +1,1 @@
-# Training-and-Evaluating-Neural-Networks-for-MNIST-Digit-Classification-Using-Keras
+# Training-and-Evaluating-Neural-Networks-for-MNIST-Digit-Classification-Using-Keras[Training and Evaluating Neural Networks for MNIST Digit Classification Using Keras (1).pdf](https://github.com/user-attachments/files/19738650/Training.and.Evaluating.Neural.Networks.for.MNIST.Digit.Classification.Using.Keras.1.pdf)
